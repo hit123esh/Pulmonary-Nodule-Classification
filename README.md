@@ -1,4 +1,4 @@
-# 🫁 Automated Pulmonary Nodule Classification System
+# Automated Pulmonary Nodule Classification System
 
 A **deterministic, rule-based clinical decision engine** that processes free-text radiology reports and classifies pulmonary nodules using:
 
@@ -10,7 +10,7 @@ No machine learning — purely structured clinical reasoning.
 
 ---
 
-## 📌 Overview
+## Overview
 
 The system:
 
@@ -26,7 +26,7 @@ It processes **20 radiology cases**:
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 The project follows a modular, 3-layer structure:
 
