@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Optional: ignore generated outputs if not required
+# completed_assignment.csv
